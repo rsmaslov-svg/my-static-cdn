@@ -1,0 +1,156 @@
+{
+  "android": [
+    {
+      "name": "V2RayNG",
+      "recommended": true,
+      "description": "Классика и самый стабильный клиент",
+      "steps": [
+        "Скачайте с GitHub",
+        "Нажмите «+» → Импорт из буфера",
+        "Перейдите в папку import sub и через <span class=\"bold-dots\">&vellip;</span> (вертикальное троеточие) обновить подписку",
+        "Скопируйте <span id=\"copy-routes-btn\" onclick=\"copyRoutes()\" class=\"cursor-pointer underline text-pink-400 hover:text-pink-300 font-medium\">маршруты</span> и добавьте через ☰ маршрутизация +",
+        "Через ☰ Выбор приложений - включить переключатель \"использовать выбор приложений\". Отметьте галочками приложения которые будут работать через vpn.",
+        "Перейдите в папку подписки - запустите соединение"
+      ],
+      "link": "https://github.com/2dust/v2rayNG",
+      "linkText": "GitHub",
+      "linkIcon": "fab fa-github"
+    },
+    {
+      "name": "NekoBox",
+      "recommended": false,
+      "description": "Современный UI на Sing-box",
+      "steps": [
+        "Установите из релизов",
+        "Через + импортируйте подписку",
+        "Через ☰ в маршруты, добавить маршрут в domain указать domain:ru а в outbound - обход. сохраните.",
+        "Перейдите в конфигурацию - запустите соединение"
+      ],
+      "link": "https://github.com/MatsuriDayo/NekoBoxForAndroid",
+      "linkText": "GitHub",
+      "linkIcon": "fab fa-github"
+    }
+  ],
+  "windows": [
+    {
+      "name": "PrizrakBox",
+      "recommended": true,
+      "description": "Необычное новое",
+      "steps": [
+        "Скачайте с GitHub",
+        "Запустите от имени администратора,установите",
+        "Добавьте профиль в виде ссылки",
+        "Подключитесь(нажать кнопку \"прокси\")"
+      ],
+      "link": "https://github.com/legiz-ru/Prizrak-Box/releases/download/v1.0.21-alpha4/windows-amd64.msi",
+      "linkText": "GitHub",
+      "linkIcon": "fab fa-github"
+    },
+    {
+      "name": "v2rayN",
+      "recommended": false,
+      "description": "Проверенная классика",
+      "steps": [
+        "Скачайте с GitHub",
+        "Servers → Subscription → Add",
+        "Вставьте ссылку",
+        "Обновите и подключитесь"
+      ],
+      "link": "https://github.com/2dust/v2rayN",
+      "linkText": "GitHub",
+      "linkIcon": "fab fa-github"
+    },
+    {
+      "name": "Nekoray",
+      "recommended": false,
+      "description": "Красивый кроссплатформенный клиент",
+      "steps": [
+        "Скачайте релиз",
+        "Profiles → Subscription",
+        "Добавьте и обновите",
+        "Подключитесь"
+      ],
+      "link": "https://github.com/MatsuriDayo/nekoray/releases",
+      "linkText": "GitHub",
+      "linkIcon": "fab fa-github"
+    }
+  ],
+  "byedpi": [
+    {
+      "name": "ByeByeDPI(Android)",
+      "recommended": true,
+      "description": "Модификация трафика без VPN",
+      "steps": [
+        "Установите с GitHub",
+        "Откройте приложение, нажмите на шестерёнку → Подбор стратегий → Начать проверку",
+        "Выберите лучшую стратегию и примените её",
+        "Подключитесь"
+      ],
+      "link": "https://github.com/romanvht/ByeByeDPI/releases",
+      "linkText": "GitHub",
+      "linkIcon": "fab fa-github"
+    }
+  ],
+  "ios": [
+    {
+      "name": "Shadowrocket",
+      "recommended": true,
+      "description": "Самый мощный клиент (платный)",
+      "steps": [
+        "Купите в App Store",
+        "«+» → Subscribe",
+        "Вставьте ссылку",
+        "Обновите"
+      ],
+      "link": "https://apps.apple.com/app/shadowrocket/id932747118",
+      "linkText": "App Store",
+      "linkIcon": "fas fa-apple"
+    },
+    {
+      "name": "Streisand",
+      "recommended": false,
+      "description": "Бесплатный через TestFlight",
+      "steps": [
+        "Установите через TestFlight",
+        "Добавьте подписку",
+        "Обновите конфиги"
+      ],
+      "link": "https://github.com/StreisandEffect/streisand",
+      "linkText": "GitHub",
+      "linkIcon": "fab fa-github"
+    },
+    {
+      "name": "Amnezia iOS",
+      "recommended": false,
+      "description": "Официальный клиент Amnezia",
+      "steps": [
+        "Установите из App Store/TestFlight",
+        "Добавьте подписку",
+        "Подключитесь"
+      ],
+      "link": "https://amnezia.org",
+      "linkText": "Сайт",
+      "linkIcon": "fas fa-globe"
+    }
+  ],
+  "notUsed": {
+    "title": "Пока не используем",
+    "links": [
+      {
+        "text": "Amnezia",
+        "url": "https://github.com/amnezia-vpn/amnezia-client",
+        "icon": "fab fa-github"
+      },
+      {
+        "text": "Мусор Amnezia 1",
+        "url": "https://voidwaifu.github.io/Special-Junk-Packet-List/",
+        "icon": "fas fa-link"
+      },
+      {
+        "text": "Мусор Amnezia 2",
+        "url": "https://lnxx.ru/sjp.html",
+        "icon": "fas fa-link"
+      }
+    ]
+  }
+}
