@@ -38,11 +38,11 @@
       "description": "Необычное новое",
       "steps": [
         "Скачайте с GitHub",
-        "Запустите от имени администратора,установите",
+        "Установите и запустите от имени администратора",
         "Добавьте профиль в виде ссылки",
         "Подключитесь(нажать кнопку \"прокси\")"
       ],
-      "link": "https://github.com/legiz-ru/Prizrak-Box/releases/download/v1.0.21-alpha4/windows-amd64.msi",
+      "link": "https://github.com/legiz-ru/Prizrak-Box/releases",
       "linkText": "GitHub",
       "linkIcon": "fab fa-github"
     },
@@ -52,11 +52,12 @@
       "description": "Проверенная классика",
       "steps": [
         "Скачайте с GitHub",
+        "Установите и запустите от имени администратора",
         "Servers → Subscription → Add",
         "Вставьте ссылку",
         "Обновите и подключитесь"
       ],
-      "link": "https://github.com/2dust/v2rayN",
+      "link": "https://github.com/2dust/v2rayN/releases/latest",
       "linkText": "GitHub",
       "linkIcon": "fab fa-github"
     },
