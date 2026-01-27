@@ -52,10 +52,13 @@
       "description": "Проверенная классика",
       "steps": [
         "Скачайте с GitHub",
-        "Установите и запустите от имени администратора",
-        "Servers → Subscription → Add",
-        "Вставьте ссылку",
-        "Обновите и подключитесь"
+        "Распакуйте архив и запустите от имени администратора",
+        "Settings → Regional presets → Russian (дождитесь окончания процесса)",
+        "Внизу панели в Routing выбрать RUv1-Всё, кроме РФ",
+        "Configuration → import share links from clipboard ",
+        "Появятся строчки с подключениями, на первой - правой кнопкой мыши →  set is active",
+        "Внизу окна в строке system proxy выбрать →  set system proxy",
+        "Когда ненужен - закрываем, и в трее через пкм →  exit"
       ],
       "link": "https://github.com/2dust/v2rayN/releases/latest",
       "linkText": "GitHub",
