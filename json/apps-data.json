@@ -5,7 +5,7 @@
       "recommended": true,
       "description": "Классика и самый стабильный клиент",
       "steps": [
-        "Скачайте с GitHub",
+        "Скачайте с GitHub, ecnfyjdbnt",
         "Нажмите «+» → Импорт из буфера",
         "Перейдите в папку import sub и через <span class=\"bold-dots\">&vellip;</span> (вертикальное троеточие) обновить подписку",
         "Скопируйте <span id=\"copy-routes-btn\" onclick=\"copyRoutes()\" class=\"cursor-pointer underline text-pink-400 hover:text-pink-300 font-medium\">маршруты</span> и добавьте через ☰ маршрутизация +",
@@ -15,7 +15,7 @@
       "link": "https://github.com/2dust/v2rayNG",
       "linkText": "GitHub",
       "linkIcon": "fab fa-github",
-      "routes": "[{\"domain\":[\"domain:рф\"],\"enabled\":true,\"locked\":false,\"outboundTag\":\"direct\",\"remarks\":\"рф\"},{\"domain\":[\"domain:su\"],\"enabled\":true,\"locked\":false,\"outboundTag\":\"direct\",\"remarks\":\"su\"},{\"domain\":[\"domain:ru\"],\"enabled\":true,\"locked\":false,\"outboundTag\":\"direct\",\"remarks\":\"ru\"},{\"enabled\":true,\"locked\":false,\"network\":\"udp\",\"outboundTag\":\"block\",\"port\":\"443\",\"remarks\":\"阻断udp443\"},{\"enabled\":true,\"locked\":false,\"ip\":[\"geoip:private\"],\"outboundTag\":\"direct\",\"remarks\":\"绕过局域网IP\"},{\"domain\":[\"geosite:private\"],\"enabled\":true,\"locked\":false,\"outboundTag\":\"direct\",\"remarks\":\"绕过局域网域名\"},{\"enabled\":true,\"locked\":false,\"outboundTag\":\"proxy\",\"port\":\"0-65535\",\"remarks\":\"最终代理\"}]"
+      "routes": "[{"enabled":true,"locked":false,"outboundTag":"direct","protocol":["bittorrent"],"remarks":"Bypass bittorrent"},{"enabled":true,"locked":false,"network":"udp","outboundTag":"block","port":"443","remarks":"Block udp443"},{"enabled":true,"ip":["geoip:private"],"locked":false,"outboundTag":"direct","remarks":"Direct LAN IP"},{"domain":["geosite:private"],"enabled":true,"locked":false,"outboundTag":"direct","remarks":"Direct LAN domains"},{"domain":["geosite:category-ru"],"enabled":true,"locked":false,"outboundTag":"direct","remarks":"Bypass Russia domains"},{"enabled":true,"ip":["geoip:ru"],"locked":false,"outboundTag":"direct","remarks":"Bypass Russia IP"}]"
     },
     {
       "name": "NekoBox",
