@@ -5,7 +5,7 @@
       "recommended": true,
       "description": "Классика и самый стабильный клиент",
       "steps": [
-        "Скачайте с GitHub, ecnfyjdbnt",
+        "Скачайте с GitHub, установите",
         "Нажмите «+» → Импорт из буфера",
         "Перейдите в папку import sub и через <span class=\"bold-dots\">&vellip;</span> (вертикальное троеточие) обновить подписку",
         "Скопируйте <span id=\"copy-routes-btn\" onclick=\"copyRoutes()\" class=\"cursor-pointer underline text-pink-400 hover:text-pink-300 font-medium\">маршруты</span> и добавьте через ☰ маршрутизация +",
