@@ -15,7 +15,7 @@
       "link": "https://github.com/2dust/v2rayNG",
       "linkText": "GitHub",
       "linkIcon": "fab fa-github",
-      "routes": "[{"enabled":true,"locked":false,"outboundTag":"direct","protocol":["bittorrent"],"remarks":"Bypass bittorrent"},{"enabled":true,"locked":false,"network":"udp","outboundTag":"block","port":"443","remarks":"Block udp443"},{"enabled":true,"ip":["geoip:private"],"locked":false,"outboundTag":"direct","remarks":"Direct LAN IP"},{"domain":["geosite:private"],"enabled":true,"locked":false,"outboundTag":"direct","remarks":"Direct LAN domains"},{"domain":["geosite:category-ru"],"enabled":true,"locked":false,"outboundTag":"direct","remarks":"Bypass Russia domains"},{"enabled":true,"ip":["geoip:ru"],"locked":false,"outboundTag":"direct","remarks":"Bypass Russia IP"}]"
+      "routes": "[{"enabled":true,"locked":false,"network":"udp","outboundTag":"block","port":"443","remarks":"Block udp443"},{"enabled":true,"ip":["geoip:private"],"locked":false,"outboundTag":"direct","remarks":"Direct LAN IP"},{"domain":["geosite:private"],"enabled":true,"locked":false,"outboundTag":"direct","remarks":"Direct LAN domains"},{"domain":["geosite:category-ru"],"enabled":true,"locked":false,"outboundTag":"direct","remarks":"Bypass Russia domains"},{"enabled":true,"ip":["geoip:ru"],"locked":false,"outboundTag":"direct","remarks":"Bypass Russia IP"}]"
     },
     {
       "name": "NekoBox",
