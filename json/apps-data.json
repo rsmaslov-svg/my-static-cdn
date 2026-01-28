@@ -12,7 +12,7 @@
         "Через ☰ Выбор приложений - включить переключатель \"использовать выбор приложений\". Отметьте галочками приложения которые будут работать через vpn.",
         "Перейдите в папку подписки - запустите соединение"
       ],
-      "link": "https://github.com/2dust/v2rayNG",
+      "link": "https://github.com/2dust/v2rayNG/releases/download/1.10.32/v2rayNG_1.10.32_universal.apk",
       "linkText": "GitHub",
       "linkIcon": "fab fa-github"
     },
@@ -26,7 +26,7 @@
         "Через ☰ в маршруты, добавить маршрут в domain указать domain:ru а в outbound - обход. сохраните.",
         "Перейдите в конфигурацию - запустите соединение"
       ],
-      "link": "https://github.com/MatsuriDayo/NekoBoxForAndroid",
+      "link": "https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.4.1/NekoBox-1.4.1-x86_64.apk",
       "linkText": "GitHub",
       "linkIcon": "fab fa-github"
     }
@@ -39,10 +39,10 @@
       "steps": [
         "Скачайте с GitHub",
         "Установите и запустите от имени администратора",
-        "Добавьте профиль в виде ссылки",
+        "Установите сервис и добавьте профиль в виде ссылки",
         "Подключитесь(нажать кнопку \"прокси\")"
       ],
-      "link": "https://github.com/legiz-ru/Prizrak-Box/releases",
+      "link": "https://github.com/legiz-ru/Prizrak-Box/releases/download/v1.0.21-alpha7/windows-amd64.msi",
       "linkText": "GitHub",
       "linkIcon": "fab fa-github"
     },
@@ -52,7 +52,7 @@
       "description": "Проверенная классика",
       "steps": [
         "Скачайте с GitHub",
-        "Распакуйте архив и запустите от имени администратора",
+        "Распакуйте архив в папку из которой будете запускать приложение и запустите от имени администратора",
         "Settings → Regional presets → Russian (дождитесь окончания процесса)",
         "Внизу панели в Routing выбрать RUv1-Всё, кроме РФ",
         "Configuration → import share links from clipboard ",
@@ -61,7 +61,7 @@
         "Когда ненужен - закрываем, и в трее через пкм →  exit",
         "Когда снова нужен - запускаем через пкм от имени администратора"
       ],
-      "link": "https://github.com/2dust/v2rayN/releases/latest",
+      "link": "https://github.com/2dust/v2rayN/releases/download/7.17.1/v2rayN-windows-64.zip",
       "linkText": "GitHub",
       "linkIcon": "fab fa-github"
     },
