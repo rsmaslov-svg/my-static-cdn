@@ -5,17 +5,17 @@
       "recommended": true,
       "description": "Классика и самый стабильный клиент",
       "steps": [
-        "Скачайте с GitHub, запустите",
+        "Скачайте с GitHub",
         "Нажмите «+» → Импорт из буфера",
         "Перейдите в папку import sub и через <span class=\"bold-dots\">&vellip;</span> (вертикальное троеточие) обновить подписку",
         "Скопируйте <span id=\"copy-routes-btn\" onclick=\"copyRoutes()\" class=\"cursor-pointer underline text-pink-400 hover:text-pink-300 font-medium\">маршруты</span> и добавьте через ☰ маршрутизация +",
         "Через ☰ Выбор приложений - включить переключатель \\\"использовать выбор приложений\\\". Отметьте галочками приложения которые будут работать через vpn.",
         "Перейдите в папку подписки - запустите соединение"
       ],
-      "link": "https://github.com/2dust/v2rayNG/releases/download/1.10.32/v2rayNG_1.10.32_universal.apk",
+      "link": "https://github.com/2dust/v2rayNG",
       "linkText": "GitHub",
       "linkIcon": "fab fa-github",
-      "routes": "[{"enabled":true,"locked":false,"outboundTag":"direct","protocol":["bittorrent"],"remarks":"Bypass bittorrent"},{"enabled":true,"locked":false,"network":"udp","outboundTag":"block","port":"443","remarks":"Block udp443"},{"enabled":true,"ip":["geoip:private"],"locked":false,"outboundTag":"direct","remarks":"Direct LAN IP"},{"domain":["geosite:private"],"enabled":true,"locked":false,"outboundTag":"direct","remarks":"Direct LAN domains"},{"domain":["geosite:category-ru"],"enabled":true,"locked":false,"outboundTag":"direct","remarks":"Bypass Russia domains"},{"enabled":true,"ip":["geoip:ru"],"locked":false,"outboundTag":"direct","remarks":"Bypass Russia IP"}]"
+      "routes": "[{\"domain\":[\"domain:рф\"],\"enabled\":true,\"locked\":false,\"outboundTag\":\"direct\",\"remarks\":\"рф\"},{\"domain\":[\"domain:su\"],\"enabled\":true,\"locked\":false,\"outboundTag\":\"direct\",\"remarks\":\"su\"},{\"domain\":[\"domain:ru\"],\"enabled\":true,\"locked\":false,\"outboundTag\":\"direct\",\"remarks\":\"ru\"},{\"enabled\":true,\"locked\":false,\"network\":\"udp\",\"outboundTag\":\"block\",\"port\":\"443\",\"remarks\":\"阻断udp443\"},{\"enabled\":true,\"locked\":false,\"ip\":[\"geoip:private\"],\"outboundTag\":\"direct\",\"remarks\":\"绕过局域网IP\"},{\"domain\":[\"geosite:private\"],\"enabled\":true,\"locked\":false,\"outboundTag\":\"direct\",\"remarks\":\"绕过局域网域名\"},{\"enabled\":true,\"locked\":false,\"outboundTag\":\"proxy\",\"port\":\"0-65535\",\"remarks\":\"最终代理\"}]"
     },
     {
       "name": "NekoBox",
@@ -27,7 +27,7 @@
         "Через ☰ в маршруты, добавить маршрут в domain указать domain:ru а в outbound - обход. сохраните.",
         "Перейдите в конфигурацию - запустите соединение"
       ],
-      "link": "https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.4.1/NekoBox-1.4.1-x86_64.apk",
+      "link": "https://github.com/MatsuriDayo/NekoBoxForAndroid",
       "linkText": "GitHub",
       "linkIcon": "fab fa-github"
     }
@@ -41,9 +41,9 @@
         "Скачайте с GitHub",
         "Запустите от имени администратора,установите",
         "Добавьте профиль в виде ссылки",
-        "Подключитесь(нажать кнопку \"прокси\")"
+        "Подключитесь(нажать кнопку \\\"прокси\\\")"
       ],
-      "link": "https://github.com/legiz-ru/Prizrak-Box/releases/download/v1.0.21-alpha7/windows-amd64.msi",
+      "link": "https://github.com/legiz-ru/Prizrak-Box/releases/download/v1.0.21-alpha4/windows-amd64.msi",
       "linkText": "GitHub",
       "linkIcon": "fab fa-github"
     },
