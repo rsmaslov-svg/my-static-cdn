@@ -49,7 +49,7 @@
   ],
   "tv": [
     {
-      "name": "HAPP_",
+      "name": "HAPP",
       "recommended": true,
       "description": "Классика и самый стабильный клиент",
       "steps": [
@@ -145,8 +145,8 @@
   ],
   "byedpi": [
     {
-      "name": "ByeByeDPI(Android)",
-      "recommended": true,
+      "name": "ByeDPI (Android)",
+      "recommended": false,
       "description": "Модификация трафика без VPN",
       "steps": [
         "Установите с GitHub",
@@ -155,6 +155,20 @@
         "Подключитесь"
       ],
       "link": "https://github.com/romanvht/ByeByeDPI/releases",
+      "linkText": "GitHub",
+      "linkIcon": "fab fa-github"
+    },
+    {
+      "name": "ByeDPI (Windows)",
+      "recommended": false,
+      "description": "Модификация трафика без VPN",
+      "steps": [
+        "Скачайте с GitHub",
+        "Распакуйте архив",
+        "Запустите от имени администратора",
+        "Подключитесь"
+      ],
+      "link": "https://github.com/bol-van/zapret2/releases/",
       "linkText": "GitHub",
       "linkIcon": "fab fa-github"
     }
