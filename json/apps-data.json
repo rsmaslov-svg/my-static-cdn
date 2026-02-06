@@ -49,7 +49,7 @@
   ],
   "tv": [
     {
-      "name": "HAPP",
+      "name": "HAPP_",
       "recommended": true,
       "description": "Классика и самый стабильный клиент",
       "steps": [
@@ -173,6 +173,17 @@
       "linkIcon": "fab fa-github"
     }
   ],
+  "macos": [
+  {
+    "name": "Placeholder для MacOS",
+    "recommended": true,
+    "description": "Пока заглушка — заполнишь потом",
+    "steps": ["Шаг 1", "Шаг 2"],
+    "link": "#",
+    "linkText": "Скоро",
+    "linkIcon": "fab fa-apple"
+  }
+],
   "ios": [
     {
       "name": "Shadowrocket",
