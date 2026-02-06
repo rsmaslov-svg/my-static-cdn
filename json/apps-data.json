@@ -49,7 +49,7 @@
   ],
   "tv": [
     {
-      "name": "HAPP",
+      "name": "HAPP_",
       "recommended": true,
       "description": "Классика и самый стабильный клиент",
       "steps": [
