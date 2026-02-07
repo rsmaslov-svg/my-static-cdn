@@ -10,8 +10,8 @@
         "Запустите соединение <i class='fas fa-power-off'></i>"
       ],
       "link": "https://play.google.com/store/apps/details?id=com.happproxy",
-      "linkText": "Установить из Google Play",
-      "linkIcon": "fab fa-google-play"
+      "linkText": "Установить из <i class='fab fa-google-play'></i> Google Play",
+      "linkIcon": ""
     },
     {
       "name": "V2RayNG",
