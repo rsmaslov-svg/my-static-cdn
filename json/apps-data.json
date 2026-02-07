@@ -7,10 +7,10 @@
       "steps": [
         "Установите из GooglePlay маркета и возвращайтесь сюда.",
         "Установите подписку",
-        "Вернитесь на главное окно и запустите соединение"
+        "Запустите соединение \uf011"
       ],
       "link": "https://play.google.com/store/apps/details?id=com.happproxy",
-      "linkText": "GooglePlay",
+      "linkText": "Установить из Google Play",
       "linkIcon": "fab fa-google-play"
     },
     {
