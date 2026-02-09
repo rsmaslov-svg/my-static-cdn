@@ -8,6 +8,7 @@
     "com.linkedin.android",
     "com.anthropic.claude",
     "com.discord",
+    "ai.x.grok",
     "com.google.android.youtube",
     "com.google.android.apps.youtube.music",
     "com.netflix.mediaclient",
