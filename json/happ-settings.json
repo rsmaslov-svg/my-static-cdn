@@ -1,6 +1,5 @@
 {
   "_comment": "Все параметры управления приложением Happ. Меняйте enabled: true/false. value — значение параметра, используется если enabled: true.",
-
   "profile-update-interval": {
     "description": "Интервал автообновления подписки (часы, кратно 1)",
     "enabled": true,
@@ -44,7 +43,7 @@
   "ping-result": {
     "description": "Отображение результата пинга: time или icon",
     "enabled": true,
-    "value": "icon"
+    "value": "time"
   },
   "proxy-enable": {
     "description": "Использовать режим Proxy (только Desktop, не TUN)",
