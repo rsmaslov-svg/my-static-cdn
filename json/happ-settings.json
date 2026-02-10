@@ -14,7 +14,7 @@
   "subscription-auto-update-enable": {
     "description": "Глобальное автообновление всех подписок",
     "enabled": true,
-    "value": "1"
+    "value": "24"
   },
   "subscription-auto-update-open-enable": {
     "description": "Обновлять все подписки при каждом открытии приложения",
