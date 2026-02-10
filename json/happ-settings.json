@@ -1,0 +1,119 @@
+{
+  "_comment": "Все параметры управления приложением Happ. Меняйте enabled: true/false. value — значение параметра, используется если enabled: true.",
+
+  "profile-update-interval": {
+    "description": "Интервал автообновления подписки (часы, кратно 1)",
+    "enabled": true,
+    "value": "12"
+  },
+  "routing-enable": {
+    "description": "Включить маршрутизацию в приложении",
+    "enabled": true,
+    "value": "1"
+  },
+  "subscription-auto-update-enable": {
+    "description": "Глобальное автообновление всех подписок",
+    "enabled": true,
+    "value": "1"
+  },
+  "subscription-auto-update-open-enable": {
+    "description": "Обновлять все подписки при каждом открытии приложения",
+    "enabled": false,
+    "value": "1"
+  },
+  "subscription-ping-onopen-enabled": {
+    "description": "Пинговать серверы при открытии приложения",
+    "enabled": true,
+    "value": "1"
+  },
+  "subscription-autoconnect": {
+    "description": "Автоподключение при запуске приложения",
+    "enabled": false,
+    "value": "1"
+  },
+  "subscription-autoconnect-type": {
+    "description": "Критерий автоподключения: lastused или lowestdelay",
+    "enabled": false,
+    "value": "lowestdelay"
+  },
+  "ping-type": {
+    "description": "Метод пинга: proxy, proxy-head, tcp, icmp",
+    "enabled": true,
+    "value": "tcp"
+  },
+  "ping-result": {
+    "description": "Отображение результата пинга: time или icon",
+    "enabled": false,
+    "value": "icon"
+  },
+  "proxy-enable": {
+    "description": "Использовать режим Proxy (только Desktop, не TUN)",
+    "enabled": true,
+    "value": "1"
+  },
+  "tun-enable": {
+    "description": "Использовать режим TUN (только Desktop, не Proxy)",
+    "enabled": false,
+    "value": "1"
+  },
+  "tun-mode": {
+    "description": "Стек TUN-режима: system или gvisor",
+    "enabled": false,
+    "value": "gvisor"
+  },
+  "tun-type": {
+    "description": "Ядро TUN: singbox или tun2proxy",
+    "enabled": false,
+    "value": "singbox"
+  },
+  "sniffing-enable": {
+    "description": "Анализ пакетов (sniffing) для определения протокола",
+    "enabled": true,
+    "value": "1"
+  },
+  "hide-settings": {
+    "description": "Скрыть настройки серверов от пользователей",
+    "enabled": false,
+    "value": "1"
+  },
+  "subscriptions-collapse": {
+    "description": "Запретить сворачивать список серверов (false = всегда развёрнут)",
+    "enabled": false,
+    "value": "0"
+  },
+  "app-auto-start": {
+    "description": "Автозапуск приложения при включении устройства (только Android)",
+    "enabled": false,
+    "value": "1"
+  },
+  "notification-subs-expire": {
+    "description": "Push-уведомления за 3 дня до истечения подписки",
+    "enabled": false,
+    "value": "1"
+  },
+  "sub-expire": {
+    "description": "Показывать баннер об истечении подписки в приложении",
+    "enabled": false,
+    "value": "1"
+  },
+  "sub-expire-button-link": {
+    "description": "Ссылка на кнопку 'Продлить' в баннере истечения",
+    "enabled": false,
+    "value": "https://t.me/rsmaslov"
+  },
+  "mux-enable": {
+    "description": "Мультиплексирование TCP-соединений (Mux)",
+    "enabled": false,
+    "value": "1"
+  },
+  "fragmentation-enable": {
+    "description": "Глобальная фрагментация пакетов для всех подписок",
+    "enabled": false,
+    "value": "1"
+  },
+  "server-address-resolve-enable": {
+    "description": "Предварительный DoH-резолвинг IP серверов перед подключением",
+    "enabled": false,
+    "value": "1"
+  }
+}
