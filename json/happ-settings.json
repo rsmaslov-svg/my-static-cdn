@@ -28,13 +28,13 @@
   },
   "subscription-autoconnect": {
     "description": "Автоподключение при запуске приложения",
-    "enabled": false,
+    "enabled": true,
     "value": "1"
   },
   "subscription-autoconnect-type": {
     "description": "Критерий автоподключения: lastused или lowestdelay",
-    "enabled": false,
-    "value": "lowestdelay"
+    "enabled": true,
+    "value": "lastused"
   },
   "ping-type": {
     "description": "Метод пинга: proxy, proxy-head, tcp, icmp",
@@ -43,7 +43,7 @@
   },
   "ping-result": {
     "description": "Отображение результата пинга: time или icon",
-    "enabled": false,
+    "enabled": true,
     "value": "icon"
   },
   "proxy-enable": {
@@ -93,12 +93,12 @@
   },
   "sub-expire": {
     "description": "Показывать баннер об истечении подписки в приложении",
-    "enabled": false,
+    "enabled": true,
     "value": "1"
   },
   "sub-expire-button-link": {
     "description": "Ссылка на кнопку 'Продлить' в баннере истечения",
-    "enabled": false,
+    "enabled": true,
     "value": "https://t.me/rsmaslov"
   },
   "mux-enable": {
