@@ -252,7 +252,7 @@
     "recommended": true,
     "description": "Классика и самый стабильный клиент",
     "steps": [
-        "Установить приложение по ссылке -> <a href='https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x64.exe' style='display: inline !important; padding: 0 !important; background: none !important; border: none !important; color: #2dd4bf !important; text-decoration: underline !important; font-weight: 600;'>setup-Happ.x64.exe</a>",
+        "Установить приложение по ссылке -> <a href='https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x64.exe' style='display: inline !important; padding: 0 !important; background: none !important; border: none !important; text-decoration: underline !important; font-weight: 600;'>setup-Happ.x64.exe</a>",
         "Установите подписку",
         "Выберите режим proxy или tun и запустите соединение <i class='fas fa-power-off'></i>"
       ],
