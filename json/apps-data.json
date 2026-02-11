@@ -246,21 +246,13 @@
       }
     ]
   },
-  "happ-windows": [
-    {
-      "name": "HAPP",
-      "recommended": true,
-      "description": "Классика и самый стабильный клиент",
-      "steps": [
-        "Установить приложение по ссылке -> <a href="https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x64.exe" 
-   style="display: inline-flex; align-items: center; gap: 4px; color: #818cf8; text-decoration: underline;">
-    setup-Happ.x64.exe
-    <svg xmlns="http://www.w3.org" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-        <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
-        <polyline points="7 10 12 15 17 10"></polyline>
-        <line x1="12" y1="15" x2="12" y2="3"></line>
-    </svg>
-</a>"},
+"happ-windows": [
+  {
+    "name": "HAPP",
+    "recommended": true,
+    "description": "Классика и самый стабильный клиент",
+    "steps": [
+        "Установить приложение по ссылке -> <a href='https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x64.exe' style='display: inline-flex; align-items: center; gap: 4px; color: #818cf8; text-decoration: underline;'>setup-Happ.x64.exe <svg xmlns='http://www.w3.org' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' style='flex-shrink: 0;'><path d='M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4'></path><polyline points='7 10 12 15 17 10'></polyline><line x1='12' y1='15' x2='12' y2='3'></line></svg></a>",
         "Установите подписку",
         "Выберите режим proxy или tun и запустите соединение <i class='fas fa-power-off'></i>"
       ],
