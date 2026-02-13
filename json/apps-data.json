@@ -26,7 +26,7 @@
         "Перейдите в папку подписки - запустите соединение"
       ],
       "link": "https://github.com/2dust/v2rayNG/releases/download/1.10.32/v2rayNG_1.10.32_universal.apk",
-      "linkText": "GitHub",
+      "linkText": "Установить с GitHub",
       "linkIcon": "fab fa-github"
     },
     {
@@ -40,7 +40,7 @@
         "Перейдите в конфигурацию - запустите соединение"
       ],
       "link": "https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.4.1/NekoBox-1.4.1-x86_64.apk",
-      "linkText": "GitHub",
+      "linkText": "Установить с GitHub",
       "linkIcon": "fab fa-github"
     }
   ],
@@ -58,7 +58,7 @@
         "Вернитесь на главное окно и запустите соединение"
       ],
       "link": "https://play.google.com/store/apps/details?id=com.happproxy",
-      "linkText": "GooglePlay",
+      "linkText": "Установить из GooglePlay",
       "linkIcon": "fab fa-google-play"
     },
     {
@@ -74,7 +74,7 @@
         "Перейдите в папку подписки - запустите соединение"
       ],
       "link": "https://github.com/2dust/v2rayNG/releases/download/1.10.32/v2rayNG_1.10.32_universal.apk",
-      "linkText": "GitHub",
+      "linkText": "Установить с GitHub",
       "linkIcon": "fab fa-github"
     }
   ],
@@ -121,7 +121,7 @@
         "Когда снова нужен - запускаем через пкм от имени администратора"
       ],
       "link": "https://github.com/2dust/v2rayN/releases/download/7.17.1/v2rayN-windows-64.zip",
-      "linkText": "GitHub",
+      "linkText": "Установить с GitHub",
       "linkIcon": "fab fa-github"
     },
     {
@@ -135,7 +135,7 @@
         "Подключитесь"
       ],
       "link": "https://github.com/MatsuriDayo/nekoray/releases",
-      "linkText": "GitHub",
+      "linkText": "Установить с GitHub",
       "linkIcon": "fab fa-github"
     }
   ],
@@ -151,7 +151,7 @@
         "Подключитесь"
       ],
       "link": "https://github.com/romanvht/ByeByeDPI/releases",
-      "linkText": "GitHub",
+      "linkText": "Установить с GitHub",
       "linkIcon": "fab fa-github"
     },
     {
@@ -165,7 +165,7 @@
         "Подключитесь"
       ],
       "link": "https://github.com/bol-van/zapret2/releases/",
-      "linkText": "GitHub",
+      "linkText": "Установить с GitHub",
       "linkIcon": "fab fa-github"
     }
   ],
@@ -173,7 +173,7 @@
     {
       "name": "Placeholder для MacOS",
       "recommended": true,
-      "description": "Пока заглушка — заполнишь потом",
+      "description": "Пока заглушка — ",
       "steps": [
         "Шаг 1",
         "Шаг 2"
@@ -195,7 +195,7 @@
         "Обновите"
       ],
       "link": "https://apps.apple.com/app/shadowrocket/id932747118",
-      "linkText": "App Store",
+      "linkText": "Установить из App Store",
       "linkIcon": "fas fa-apple"
     },
     {
@@ -208,7 +208,7 @@
         "Обновите конфиги"
       ],
       "link": "https://github.com/StreisandEffect/streisand",
-      "linkText": "GitHub",
+      "linkText": "Установить с GitHub",
       "linkIcon": "fab fa-github"
     },
     {
