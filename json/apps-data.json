@@ -97,13 +97,12 @@
       "recommended": true,
       "description": "Необычное новое",
       "steps": [
-        "Скачайте с GitHub",
-        "Установите и запустите от имени администратора",
+        "Установить с GitHub",
         "Установите сервис и добавьте профиль в виде ссылки",
         "Подключитесь(нажать кнопку \"прокси\")"
       ],
       "link": "https://github.com/legiz-ru/Prizrak-Box/releases/download/v1.0.21-alpha7/windows-amd64.msi",
-      "linkText": "GitHub",
+      "linkText": "Установить с GitHub",
       "linkIcon": "fab fa-github"
     },
     {
