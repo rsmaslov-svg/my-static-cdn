@@ -55,8 +55,8 @@
         "Поле ввода для 5-значного кода (буквы/цифры, uppercase)",
         "Кнопка \"Отправить подписку на телевизор\""
       ],
-      "link": "https://play.google.com/store/apps/details?id=com.happproxy",
-      "linkText": "Установить из GooglePlay",
+      "link": "",
+      "linkText": "НА ТВ установить из GooglePlay",
       "linkIcon": "fab fa-google-play"
     },
     {
