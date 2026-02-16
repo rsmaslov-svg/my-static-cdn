@@ -46,16 +46,14 @@
   ],
   "tv": [
     {
-      "name": "HAPP_",
+      "name": "Happ-android-tv",
       "recommended": true,
       "description": "Классика и самый стабильный клиент",
       "steps": [
-        "Установите из GooglePlay маркета",
-        "Скопируйте ссылку на свою подписку",
-        "Нажмите «+» → Вставить из буфера обмена",
-        "Скопируйте <span id=\"copy-routes-btn\" onclick=\"copyRoutes_happ()\" class=\"cursor-pointer underline text-pink-400 hover:text-pink-300 font-medium\">маршруты</span> и добавьте через шестеренку → маршрутизация → <span class=\"bold-dots\">&vellip;</span> (вертикальное троеточие) → Импортировать с буфера",
-        "Вернитесь назад, и в пункте \"Прокси для выбранных приложений\", выберите ВКЛ и отметьте приложения которые будут работать через VPN",
-        "Вернитесь на главное окно и запустите соединение"
+      "Установить Happ из GooglePlay"
+      "Запустить и отсканировать QR код"
+      "Поле ввода для 5-значного кода (буквы/цифры, uppercase)"
+      "Кнопка "Отправить подписку на телевизор""
       ],
       "link": "https://play.google.com/store/apps/details?id=com.happproxy",
       "linkText": "Установить из GooglePlay",
