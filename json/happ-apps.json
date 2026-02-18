@@ -25,12 +25,10 @@
     "org.mozilla.firefox",
     "com.deepseek.chat",
     "com.google.android.apps.docs",
-    "com.klingai.android",
     "tv.twitch.android.app",
     "com.tradeinn.tradeinnapp",
     "com.kinopub",
     "com.brave.browser",
-    "ai.perplexity.perplexity.android",
     "com.valvesoftware.android.steam.community",
     "com.scee.psxfeatures",
     "com.epicgames.portal",
@@ -45,6 +43,9 @@
     "com.supercell.brawlstars",
     "com.github.iojjj.joyexplorer",
     "com.discord",
-    "org.telegram.messenger"
+    "org.telegram.messenger",
+    "kling.ai.video.chat",
+    "com.nperf.tester",
+    "ai.perplexity.app.android"
   ]
 }
