@@ -46,6 +46,7 @@
     "org.telegram.messenger",
     "kling.ai.video.chat",
     "com.nperf.tester",
-    "ai.perplexity.app.android"
+    "ai.perplexity.app.android",
+    "com.google.android.youtube.tv"
   ]
 }
