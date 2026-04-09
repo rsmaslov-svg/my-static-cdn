@@ -10,8 +10,8 @@
   "Geoipurl": "https://raw.githubusercontent.com/runetfreedom/russia-v2ray-rules-dat/release/geoip.dat",
   "Geositeurl": "https://raw.githubusercontent.com/runetfreedom/russia-v2ray-rules-dat/release/geosite.dat",
   "DnsHosts": {
-    "cloudflare-dns.com": "8.8.8.8",
-    "dns.google": "1.1.1.1"
+    "dns.google": "8.8.8.8",
+    "cloudflare-dns.com": "1.1.1.1"
   },
   "DirectSites": [
     "domain:ta.local",
