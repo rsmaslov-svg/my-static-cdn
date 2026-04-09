@@ -47,6 +47,7 @@
     "kling.ai.video.chat",
     "com.nperf.tester",
     "ai.perplexity.app.android",
-    "com.google.android.youtube.tv"
+    "com.google.android.youtube.tv",
+    "com.google.android.apps.labs.language.tailwind"
   ]
 }
