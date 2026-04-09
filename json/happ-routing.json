@@ -17,6 +17,7 @@
     "domain:ta.local",
     "domain:local",
     "domain:lan"
+    "geosite:category-ru",
   ],
   "DirectIp": [
     "10.0.0.0/8",
@@ -26,15 +27,12 @@
     "169.254.0.0/16",
     "224.0.0.0/4",
     "255.255.255.255",
+    "geoip:ru"
   ],
   "ProxySites": [],
   "ProxyIp": [],
-  "BlockSites": [
-    "geosite:category-ru",
-  ],
-  "BlockIp": [
-    "geoip:ru"
-  ],
+  "BlockSites": [],
+  "BlockIp": [],
   "DomainStrategy": "IPIfNonMatch",
   "FakeDNS": false,
   "RouteOrder": "block-direct-proxy"
