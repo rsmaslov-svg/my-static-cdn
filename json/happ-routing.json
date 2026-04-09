@@ -17,7 +17,7 @@
     "domain:ta.local",
     "domain:local",
     "domain:lan",
-    "geosite:category-ru",
+    "geosite:category-ru"
   ],
   "DirectIp": [
     "10.0.0.0/8",
