@@ -11,13 +11,16 @@
   "Geositeurl": "https://raw.githubusercontent.com/runetfreedom/russia-v2ray-rules-dat/release/geosite.dat",
   "DnsHosts": {
     "dns.google": "8.8.8.8",
+    "dns.quad9.net": "9.9.9.9",
     "cloudflare-dns.com": "1.1.1.1"
   },
   "DirectSites": [
     "domain:ta.local",
     "domain:local",
     "domain:lan",
-    "geosite:category-ru"
+    "geosite:category-ru",
+    "geosite:vk",
+    "geosite:yandex"
   ],
   "DirectIp": [
     "10.0.0.0/8",
@@ -27,6 +30,7 @@
     "169.254.0.0/16",
     "224.0.0.0/4",
     "255.255.255.255",
+    "geoip:yandex",
     "geoip:ru"
   ],
   "ProxySites": [],
