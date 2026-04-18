@@ -137,5 +137,17 @@
     "enabled": false,
     "value": "1",
     "docs": "Выполняет резолвинг доменов серверов до установления подключения. Можно указать DoH-сервер через server-address-resolve-dns-domain и server-address-resolve-dns-ip. При нескольких IP-адресах выбирается тот, у которого минимальная задержка. При большом числе IP подключение может занять больше времени. Требуется Provider ID."
+  },
+  "socks-auth-mode": {
+    "description": "Режим авторизации SOCKS inbound",
+    "enabled": true,
+    "value": "disable",
+    "docs": "Управляет режимом авторизации для SOCKS inbound. Возможные значения: auto, manual, from-json, disable. При manual необходимо также передать socks-auth-user и socks-auth-password. Требуется Provider ID."
+  },
+  "http-auth-mode": {
+    "description": "Режим авторизации HTTP inbound",
+    "enabled": true,
+    "value": "disable",
+    "docs": "Управляет режимом авторизации для HTTP inbound. Возможные значения: auto, manual, from-json, disable. При manual необходимо также передать http-auth-user и http-auth-password. Требуется Provider ID."
   }
 }
