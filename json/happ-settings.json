@@ -140,26 +140,10 @@
   },
   "socks-auth-mode": {
     "enabled": true,
-    "value": "manual"
-  },
-  "socks-auth-user": {
-    "enabled": true,
-    "value": "admin"
-  },
-  "socks-auth-password": {
-    "enabled": true,
-    "value": "554411"
+    "value": "disable"
   },
   "http-auth-mode": {
     "enabled": true,
-    "value": "manual"
-  },
-  "http-auth-user": {
-    "enabled": true,
-    "value": "admin"
-  },
-  "http-auth-password": {
-    "enabled": true,
-    "value": "554411"
+    "value": "disable"
   }
 }
