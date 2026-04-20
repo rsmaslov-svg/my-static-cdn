@@ -140,10 +140,10 @@
   },
   "socks-auth-mode": {
     "enabled": true,
-    "value": "disable"
+    "value": "auto"
   },
   "http-auth-mode": {
     "enabled": true,
-    "value": "disable"
+    "value": "auto"
   }
 }
