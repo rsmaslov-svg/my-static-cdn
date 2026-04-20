@@ -24,7 +24,6 @@
     "domain:mycdn.me",
     "domain:ok.me",
     "domain:vk.company",
-    "domain:vmailru.net",
     "domain:smailru.net",
     "domain:my.games",
     "domain:sberbank.com",
@@ -51,7 +50,6 @@
     "geosite:category-betting-ru",
     "geosite:category-bank-ru",
     "geosite:tld-ru",
-    "geosite:ucoz-ru",
     "geosite:magnit",
     "geosite:yandex"
   ],
