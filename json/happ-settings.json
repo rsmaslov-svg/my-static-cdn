@@ -45,13 +45,13 @@
   "ping-type": {
     "description": "Метод пинга: proxy, proxy-head, tcp, icmp",
     "enabled": true,
-    "value": "tcp",
+    "value": "proxy-head",
     "docs": "Выбор способа выполнения пинга. proxy — через прокси, proxy-head — HEAD-запрос через прокси, tcp — TCP-соединение, icmp — стандартный пинг. Для режима proxy можно задать URL через параметр check-url-via-proxy."
   },
   "ping-result": {
     "description": "Отображение результата пинга: time или icon",
     "enabled": true,
-    "value": "icon",
+    "value": "time",
     "docs": "Определяет формат отображения результата пинга рядом с сервером. time — числовое значение в мс. icon — цветная иконка качества сигнала вместо цифр."
   },
   "proxy-enable": {
