@@ -132,12 +132,6 @@
     "value": "1",
     "docs": "Глобальное управление фрагментацией пакетов для всех подписок. Доп. параметры: fragmentation-packets (tlshello / 1-2 / 1-3 / 1-5), fragmentation-length (напр. 50-100), fragmentation-interval, fragmentation-maxsplit. При отключении каждая подписка управляет фрагментацией самостоятельно. Требуется Provider ID."
   },
-  "server-address-resolve-enable": {
-    "description": "Предварительный DoH-резолвинг IP серверов перед подключением",
-    "enabled": false,
-    "value": "1",
-    "docs": "Выполняет резолвинг доменов серверов до установления подключения. Можно указать DoH-сервер через server-address-resolve-dns-domain и server-address-resolve-dns-ip. При нескольких IP-адресах выбирается тот, у которого минимальная задержка. При большом числе IP подключение может занять больше времени. Требуется Provider ID."
-  },
   "socks-auth-mode": {
     "enabled": true,
     "value": "auto"
@@ -145,5 +139,23 @@
   "http-auth-mode": {
     "enabled": true,
     "value": "auto"
+  },
+  "server-address-resolve-enable": {
+    "description": "Предварительный DoH-резолвинг IP серверов перед подключением",
+    "enabled": false,
+    "value": "1",
+    "docs": "Выполняет резолвинг доменов серверов до установления подключения. Можно указать DoH-сервер через server-address-resolve-dns-domain и server-address-resolve-dns-ip. При нескольких IP-адресах выбирается тот, у которого минимальная задержка. При большом числе IP подключение может занять больше времени. Требуется Provider ID."
+  },
+  "server-address-resolve-dns-domain": {
+    "description": "DoH-сервер для резолвинга адресов VPN-серверов",
+    "enabled": false,
+    "value": "https://dns.google/dns-query",
+    "docs": "URL DoH-сервера."
+  },
+  "server-address-resolve-dns-ip": {
+    "description": "IP-адрес DoH-сервера для резолвинга",
+    "enabled": false,
+    "value": "8.8.8.8",
+    "docs": "IP-адрес DoH-сервера."
   }
 }
