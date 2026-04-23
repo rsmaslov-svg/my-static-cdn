@@ -135,13 +135,13 @@
   "socks-auth-mode": {
     "description": "аутентификация socks прокси",
     "enabled": true,
-    "value": "auto"
+    "value": "auto",
     "docs": "параметры auto, manual, disabled"
   },
   "http-auth-mode": {
     "description": "аутентификация http прокси",
     "enabled": true,
-    "value": "auto"
+    "value": "auto",
     "docs": "параметры auto, manual, disabled"
   },
   "server-address-resolve-enable": {
