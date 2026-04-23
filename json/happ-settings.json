@@ -159,11 +159,5 @@
     "enabled": false,
     "value": "8.8.8.8",
     "docs": "IP-адрес DoH-сервера."
-  },
-  "server-address-resolve-dns-ip1": {
-    "description": "1IP-адрес DoH-сервера для резолвинга",
-    "enabled": false,
-    "value": "1.8.8.8",
-    "docs": "1IP-адрес DoH-сервера."
   }
 }
