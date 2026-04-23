@@ -136,11 +136,13 @@
     "description": "аутентификация socks прокси",
     "enabled": true,
     "value": "auto"
+    "docs": "параметры auto, manual, disabled"
   },
   "http-auth-mode": {
     "description": "аутентификация http прокси",
     "enabled": true,
     "value": "auto"
+    "docs": "параметры auto, manual, disabled"
   },
   "server-address-resolve-enable": {
     "description": "Предварительный DoH-резолвинг IP серверов перед подключением",
@@ -152,12 +154,12 @@
     "description": "DoH-сервер для резолвинга адресов VPN-серверов",
     "enabled": false,
     "value": "https://dns.google/dns-query",
-    "docs": "URL DoH-сервера."
+    "docs": "Предварительный резолввинг сервера перед подключением. опция server-address-resolve-enable должна быть включена"
   },
   "server-address-resolve-dns-ip": {
     "description": "IP-адрес DoH-сервера для резолвинга",
     "enabled": false,
     "value": "8.8.8.8",
-    "docs": "IP-адрес DoH-сервера."
+    "docs": "Предварительный резолввинг сервера перед подключением. опция server-address-resolve-enable должна быть включена"
   }
 }
