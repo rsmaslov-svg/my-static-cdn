@@ -45,7 +45,7 @@
   "ping-type": {
     "description": "Метод пинга: proxy, proxy-head, tcp, icmp",
     "enabled": true,
-    "value": "proxy",
+    "value": "tcp",
     "docs": "Выбор способа выполнения пинга. proxy — через прокси, proxy-head — HEAD-запрос через прокси, tcp — TCP-соединение, icmp — стандартный пинг. Для режима proxy можно задать URL через параметр check-url-via-proxy."
   },
   "ping-result": {
