@@ -7,8 +7,8 @@
   "DomesticDNSType": "DoH",
   "DomesticDNSDomain": "https://dns.google/dns-query",
   "DomesticDNSIP": "8.8.8.8",
-  "Geoipurl": "https://pedali-hub.ru/geoip.dat",
-  "Geositeurl": "https://pedali-hub.ru/geosite.dat",
+  "Geoipurl": "https://raw.githubusercontent.com/runetfreedom/russia-v2ray-rules-dat/release/geoip.dat",
+  "Geositeurl": "https://raw.githubusercontent.com/runetfreedom/russia-v2ray-rules-dat/release/geosite.dat",
   "DnsHosts": {
     "dns.google": "8.8.8.8",
     "dns.quad9.net": "9.9.9.9",
@@ -43,7 +43,6 @@
     "geosite:2gis",
     "geosite:yandex"
   ],
-
   "DirectIp": [
     "10.0.0.0/8",
     "172.16.0.0/12",
