@@ -54,7 +54,9 @@
   ],
   "ProxySites": [],
   "ProxyIp": [],
-  "BlockSites": [],
+  "BlockSites": [
+    "geosite:category-ads-all"
+  ],
   "BlockIp": [],
   "DomainStrategy": "IPIfNonMatch",
   "FakeDNS": false,
