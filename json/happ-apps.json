@@ -70,6 +70,6 @@
     "com.google.android.gms.location.history",
     "com.google.android.feedback",
     "com.google.android.overlay.modules.permissioncontroller",
-    "com.google.android.setupwizard",
+    "com.google.android.setupwizard"
   ]
 }
