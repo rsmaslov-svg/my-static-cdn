@@ -62,5 +62,14 @@
     "com.google.android.modulemetadata",
     "com.google.android.ims",
     "com.google.android.apps.messaging",
+    "com.google.android.googlequicksearchbox",
+    "com.google.android.play.games",
+    "com.google.android.permissioncontroller",
+    "com.google.android.onetimeinitializer",
+    "com.google.android.contactkeys",
+    "com.google.android.gms.location.history",
+    "com.google.android.feedback",
+    "com.google.android.overlay.modules.permissioncontroller",
+    "com.google.android.setupwizard",
   ]
 }
