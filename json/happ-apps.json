@@ -45,16 +45,9 @@
     "com.discord",
     "org.telegram.messenger",
     "kling.ai.video.chat",
+    "com.nperf.tester",
     "ai.perplexity.app.android",
-    "com.google.android.apps.labs.language.tailwind",
-    "com.google.ar.core",
-    "com.google.android.packageinstaller",
-    "com.google.android.apps.restore",
-    "com.google.android.apps.walletnfcrel",
-    "com.google.android.partnersetup",
-    "com.google.android.tts",
-    "com.google.android.ext.shared",
-    "com.google.android.apps.bard",
-    "com.google.android.gsf"
+    "com.google.android.youtube.tv",
+    "com.google.android.apps.labs.language.tailwind"
   ]
 }
