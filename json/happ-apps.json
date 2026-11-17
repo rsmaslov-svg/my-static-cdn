@@ -47,7 +47,6 @@
     "kling.ai.video.chat",
     "com.nperf.tester",
     "ai.perplexity.app.android",
-    "com.google.android.youtube.tv",
     "com.google.android.apps.labs.language.tailwind",
     "com.google.ar.core",
     "com.google.android.packageinstaller",
@@ -90,7 +89,6 @@
     "com.google.android.syncadapters.contacts",
     "com.google.android.gm",
     "com.google.android.inputmethod.latin",
-    "com.google.android.music",
     "com.google.android.configupdater"
   ]
 }
