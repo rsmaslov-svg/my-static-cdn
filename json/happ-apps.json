@@ -46,7 +46,7 @@
     "org.telegram.messenger",
     "kling.ai.video.chat",
     "ai.perplexity.app.android",
-    "com.google.android.apps.labs.language.tailwind"
+    "com.google.android.apps.labs.language.tailwind",
     "com.google.ar.core",
     "com.google.android.packageinstaller",
     "com.google.android.apps.restore",
