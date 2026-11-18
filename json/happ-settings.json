@@ -57,7 +57,7 @@
   "proxy-enable": {
     "description": "Использовать режим Proxy (только Desktop, не TUN)",
     "enabled": true,
-    "value": "1",
+    "value": "0",
     "docs": "Устанавливает режим Proxy при добавлении или обновлении подписки. Только для Desktop-версии. Нельзя использовать одновременно с tun-enable."
   },
   "tun-enable": {
